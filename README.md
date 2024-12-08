@@ -5,7 +5,7 @@ I specialize in server-side technologies, API development, and database manageme
 
 ---
 
-- 🌱 **Currently Learning**: Exploring **Vue.js** and diving into the world of **.NET**.  
+- 🌱 **Currently Learning**: Exploring **Vue.js** and diving into the world of **PHP**.  
 - 👨‍💻 **My Projects**: Check out my portfolio at [lequangkhai.id.vn](https://lequangkhai.id.vn/).  
 - 💬 **Ask Me About**: **PHP, Laravel**, or anything backend-related.  
 - 📫 **Contact Me**: Feel free to email me at **lequangkhai.tk@gmail.com**.
