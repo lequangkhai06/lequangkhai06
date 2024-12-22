@@ -1,5 +1,4 @@
 # Hi 👋, I'm LE QUANG KHAI
-### A Passionate Backend Developer from Vietnam
 
 I specialize in server-side technologies, API development, and database management. My focus is on building efficient, scalable, and secure systems. Always eager to learn and explore cutting-edge technologies, I take pride in solving complex problems with creative and robust solutions.
 
