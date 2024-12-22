@@ -1,7 +1,5 @@
 # Hi 👋, I'm LE QUANG KHAI
 
-I specialize in server-side technologies, API development, and database management. My focus is on building efficient, scalable, and secure systems. Always eager to learn and explore cutting-edge technologies, I take pride in solving complex problems with creative and robust solutions.
-
 ---
 
 - 🌱 **Currently Learning**: Exploring **Vue.js** and diving into the world of **PHP**.  
