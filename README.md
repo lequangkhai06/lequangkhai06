@@ -2,13 +2,6 @@
 
 ---
 
-- 🌱 **Currently Learning**: Exploring **Vue.js** and diving into the world of **PHP**.  
-- 👨‍💻 **My Projects**: Check out my portfolio at [lequangkhai.id.vn](https://lequangkhai.id.vn/).  
-- 💬 **Ask Me About**: **PHP, Laravel**, or anything backend-related.  
-- 📫 **Contact Me**: Feel free to email me at **lequangkhai.tk@gmail.com**.
-
----
-
 ### 🌐 Connect with Me:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://fb.com/khaideveloper)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/lequangkhai_0)
