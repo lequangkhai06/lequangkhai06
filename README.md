@@ -4,7 +4,7 @@
 
 ### 🌐 Connect with Me:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://fb.com/khaideveloper)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/lequangkhai_0)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/khailq01/)
 
 ---
 
